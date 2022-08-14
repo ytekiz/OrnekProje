@@ -1,0 +1,9 @@
+Merhaba admin olarak giriş yapmak için ysr.tekizz@gmail.com kullanıcı adı 
+ve Yaşar12345 şifresi ile giriş yapmanız gereklidir.
+Sepete eklediğiniz ürünleri sipariş etmek için iyzico kullandım ve
+kart adı =Kart
+Kart numarası=5528790000000008
+Ay=12
+Yıl=2030
+CV=123
+
